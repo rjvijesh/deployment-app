@@ -1,0 +1,31 @@
+{
+    "apiDomain": "http://localhost:5000/",
+    "templateNameDetails": [
+        "Natural One",
+        "Techno 01",
+        "Sporty"
+    ],
+    "templateDetails": [
+        {
+            "Natural One": [
+                "1.0.0",
+                "1.0.1",
+                "1.1.0",
+                "2.0.0"
+            ],
+            "Techno 01": [
+                "1.0.0",
+                "1.1.1",
+                "2.0.1"
+            ],
+            "Sporty": [
+                "1.0.0",
+                "1.1.0",
+                "1.2.0",
+                "1.2.1",
+                "1.3.0",
+                "2.0.0"
+            ]
+        }
+    ]
+}
